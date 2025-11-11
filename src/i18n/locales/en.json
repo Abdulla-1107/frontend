@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Traditional Heritage in Modern Design",
+    "subtitle": "Creating the finest Uzbek handicrafts and national garments since 2009",
+    "cta": "View Products",
+    "order": "Place Order"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Tikuvchi Anoragul private enterprise was established in 2009 and operates in the field of handicrafts and national clothing production. The enterprise employs 15 skilled artisans. The company is a member of the Uzbekistan Artisans public association under the President of the Republic of Uzbekistan. Artisans work in hand sewing, embroidery, and pattern-making.",
+    "collaboration": "Collaboration",
+    "experience": "years of experience",
+    "artisans": "skilled artisans",
+    "natural": "natural materials"
+  },
+  "products": {
+    "title": "Our Products",
+    "viewDetails": "View Details",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "price": "Price",
+    "sizes": "Sizes",
+    "colors": "Colors",
+    "material": "Material",
+    "backToProducts": "Back to Products",
+    "clickToZoom": "Click to zoom",
+    "description": "Description",
+    "features": "Features",
+    "relatedProducts": "Related Products",
+    "notFound": "Product not found"
+  },
+  "services": {
+    "title": "Our Services",
+    "custom": "Custom Tailoring",
+    "customDesc": "We create national garments based on individual measurements",
+    "embroidery": "Hand Embroidery",
+    "embroideryDesc": "Embroidery work in modern and traditional patterns",
+    "carpet": "Carpet Weaving",
+    "carpetDesc": "Preparation of carpets in national style",
+    "restoration": "Restoration",
+    "restorationDesc": "Restoration of old embroidery and clothing",
+    "masterclass": "Master Classes",
+    "masterclassDesc": "Teaching the secrets of craftsmanship",
+    "interior": "Home Decoration",
+    "interiorDesc": "Interior decoration items in national style"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout"
+  },
+  "order": {
+    "title": "Place Order",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "address": "Delivery Address",
+    "notes": "Additional Notes",
+    "agree": "I agree to the terms and conditions",
+    "submit": "Submit",
+    "success": "Order Received!",
+    "successMsg": "We will contact you soon"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How can I place an order?",
+    "a1": "To place an order, click the Place Order button on the website or contact us by phone",
+    "q2": "Do you offer delivery service?",
+    "a2": "Yes, we offer delivery service throughout Uzbekistan. Delivery within Tashkent city takes 1-2 business days.",
+    "q3": "How long does it take to complete an order?",
+    "a3": "Standard orders are completed in 5-7 business days. For complex handwork, the timeframe is agreed individually.",
+    "q4": "What payment methods do you accept?",
+    "a4": "We accept cash, credit cards, and bank transfers.",
+    "q5": "Do you have a showroom or store?",
+    "a5": "Yes, our showroom is located in Tashkent. Address: Yunusabad district, Amir Temur street 123.",
+    "q6": "Do you accept international orders?",
+    "a6": "Yes, we accept orders worldwide. Delivery cost and timeframe are calculated individually for each order.",
+    "q7": "Can products be returned or exchanged?",
+    "a7": "Yes, if the product has a manufacturing defect, it can be exchanged or returned within 14 days.",
+    "q8": "What materials do you use?",
+    "a8": "We only use high-quality natural materials: atlas, silk, satin, cotton.",
+    "q9": "Do you accept custom design orders?",
+    "a9": "Absolutely! We create unique products based on your sketches and ideas.",
+    "q10": "Can I get a catalog or brochure?",
+    "a10": "Yes, you can download our product catalog from the website or get a printed copy at our showroom."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Address",
+    "addressText": "Tashkent, Yunusabad district, Amir Temur street 123",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Working Hours",
+    "hoursText": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "social": "Social Media",
+    "message": "Send Message",
+    "name": "Name",
+    "subject": "Subject",
+    "messageText": "Message",
+    "send": "Send"
+  },
+  "footer": {
+    "about": "Creating the best examples of Uzbek craftsmanship since 2009",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "All rights reserved"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "oferta": {
+    "title": "Terms and Conditions",
+    "accept": "Accept",
+    "content": "This offer is a contract between \"Tikuvchi Anoragul\" private enterprise and the buyer..."
+  }
+}

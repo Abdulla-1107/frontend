@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "products": "Mahsulotlar",
+    "services": "Xizmatlar",
+    "faq": "Savol-javob",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title": "Milliy an'anani zamonaviy dizaynda",
+    "subtitle": "2009-yildan beri O'zbekistonning eng nozik qo'l ishlari va milliy kiyimlarini yaratamiz",
+    "cta": "Mahsulotlarni ko'rish",
+    "order": "Buyurtma berish"
+  },
+  "about": {
+    "title": "Korxona haqida",
+    "description": "Tikuvchi Anoragul xususiy korxonasi 2009-yilda tashkil etilgan boʻlib, hunarmandchilik va milliy kiyimlar ishlab chiqarish sohasida faoliyat yuritadi. Korxonada 15 nafar malakali usta ishlaydi. Korxona Oʻzbekiston Respublikasi Prezidenti huzuridagi Oʻzbekiston hunarmandlari jamoat birlashmasi aʼzosi. Korxonada qoʻlda tikish, gazlama toʻqish va andozalash yoʻnalishlarida ustalar ish olib boradilar.",
+    "collaboration": "Hamkorlik",
+    "experience": "yillik tajriba",
+    "artisans": "malakali usta",
+    "natural": "tabiiy materiallar"
+  },
+  "products": {
+    "title": "Mahsulotlarimiz",
+    "viewDetails": "Batafsil",
+    "addToCart": "Savatga qo'shish",
+    "buyNow": "Xarid qilish",
+    "price": "Narx",
+    "sizes": "O'lchamlar",
+    "colors": "Ranglar",
+    "material": "Material",
+    "backToProducts": "Mahsulotlarga qaytish",
+    "clickToZoom": "Kattalashtirishni ko'rish uchun bosing",
+    "description": "Tavsif",
+    "features": "Xususiyatlari",
+    "relatedProducts": "O'xshash mahsulotlar",
+    "notFound": "Mahsulot topilmadi"
+  },
+  "services": {
+    "title": "Xizmatlarimiz",
+    "custom": "Buyurtma asosida tikuv",
+    "customDesc": "Individual o'lchovlar asosida milliy kiyim tikamiz",
+    "embroidery": "Qo'l gazlama",
+    "embroideryDesc": "Zamonaviy va an'anaviy naqshlarda gazlama ishlari",
+    "carpet": "Gilam to'qish",
+    "carpetDesc": "Milliy uslubdagi gilamlar tayyorlash",
+    "restoration": "Qayta tiklash",
+    "restorationDesc": "Eski gazlama va kiyimlarni yangilash",
+    "masterclass": "Ustolik darslari",
+    "masterclassDesc": "Hunarmandchilik sirlarini o'rgatish",
+    "interior": "Uy bezash",
+    "interiorDesc": "Milliy uslubda ichki bezak buyumlari"
+  },
+  "cart": {
+    "title": "Savat",
+    "empty": "Savatingiz bo'sh",
+    "total": "Jami",
+    "checkout": "Rasmiylashtirish"
+  },
+  "order": {
+    "title": "Buyurtma berish",
+    "name": "To'liq ismingiz",
+    "phone": "Telefon raqam",
+    "address": "Yetkazib berish manzili",
+    "notes": "Qo'shimcha izohlar",
+    "agree": "Men oferta shartlariga roziman",
+    "submit": "Yuborish",
+    "success": "Buyurtma qabul qilindi!",
+    "successMsg": "Tez orada siz bilan bog'lanamiz"
+  },
+  "faq": {
+    "title": "Koʻp soʻraladigan savollar",
+    "q1": "Buyurtmani qanday amalga oshirish mumkin?",
+    "a1": "Buyurtma berish uchun saytdagi tugmani bosing yoki telefon orqali murojaat qiling",
+    "q2": "Yetkazib berish xizmati bormi?",
+    "a2": "Ha, biz Oʻzbekiston boʻylab yetkazib berish xizmatini taklif etamiz. Toshkent shahri ichida yetkazib berish 1-2 ish kunida amalga oshiriladi.",
+    "q3": "Buyurtmani qancha vaqtda tayyorlab berasizlar?",
+    "a3": "Oddiy buyurtmalar 5-7 ish kunida tayyorlanadi. Murakkab qoʻl ishlari uchun muddat individual kelishiladi.",
+    "q4": "Toʻlov usullari qanday?",
+    "a4": "Naqd, plastik kartalar va bank oʻtkazmasi orqali toʻlovni qabul qilamiz.",
+    "q5": "Sizda showroom yoki doʻkoningiz bormi?",
+    "a5": "Ha, bizning showroomimiz Toshkent shahrida joylashgan. Manzil: Yunusobod tumani, Amir Temur koʻchasi 123.",
+    "q6": "Xalqaro buyurtmalarni qabul qilasizmi?",
+    "a6": "Ha, biz dunyo boʻylab buyurtmalarni qabul qilamiz. Yetkazib berish narxi va muddati har bir buyurtma uchun alohida hisoblanadi.",
+    "q7": "Mahsulotlarni qaytarish yoki almashtirish mumkinmi?",
+    "a7": "Ha, agar mahsulot ishlab chiqarish nuqsoniga ega boʻlsa, 14 kun ichida almashtirish yoki qaytarish mumkin.",
+    "q8": "Qanday materiallardan foydalanasiz?",
+    "a8": "Biz faqat yuqori sifatli tabiiy materiallardan foydalanamiz: atlas, ipak, shoyi, paxta.",
+    "q9": "Individual dizayn boʻyicha buyurtma qabul qilasizmi?",
+    "a9": "Albatta! Biz sizning eskizlaringiz va gʻoyalaringiz asosida noyob mahsulotlar yaratamiz.",
+    "q10": "Katalog yoki broshyura olish mumkinmi?",
+    "a10": "Ha, bizning mahsulotlar katalogini saytdan yuklab olishingiz yoki showroomda bosma nusxasini olishingiz mumkin."
+  },
+  "contact": {
+    "title": "Biz bilan bogʻlaning",
+    "address": "Manzil",
+    "addressText": "Toshkent sh., Yunusobod tumani, Amir Temur koʻchasi 123",
+    "phone": "Telefon",
+    "email": "Email",
+    "hours": "Ish vaqti",
+    "hoursText": "Dushanba - Juma: 9:00 - 18:00",
+    "social": "Ijtimoiy tarmoqlar",
+    "message": "Xabar yuborish",
+    "name": "Ism",
+    "subject": "Mavzu",
+    "messageText": "Xabar matni",
+    "send": "Yuborish"
+  },
+  "footer": {
+    "about": "Oʻzbekiston hunarmandchiligining eng yaxshi namunalarini 2009 yildan buyon yaratib kelmoqdamiz",
+    "quickLinks": "Tezkor havolalar",
+    "followUs": "Bizni kuzatib boring",
+    "copyright": "Barcha huquqlar himoyalangan"
+  },
+  "theme": {
+    "light": "Yorug' rejim",
+    "dark": "Qorong'i rejim"
+  },
+  "oferta": {
+    "title": "Oferta shartnomasi",
+    "accept": "Qabul qilish",
+    "content": "Ushbu oferta \"Tikuvchi Anoragul\" xususiy korxonasi va xaridor o'rtasidagi shartnoma hisoblanadi..."
+  }
+}
